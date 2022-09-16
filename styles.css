@@ -96,7 +96,7 @@ section p {
     gap: 16px;
     margin-top: 24px;
 
-    flex-wrap: flex;
+    flex-wrap: wrap;
 }
 
 section ul li {
