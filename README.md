@@ -4,7 +4,9 @@
 
 >Trilha explorer 🌐
 
-Projeto contruído durante o evento level up next week da Rocketseat.
+[🔗 Clique aqui para acessar !!!!!](https://kendirodev.github.io/website-nlw/)
+
+Projeto construído durante o evento level up next week da Rocketseat.
 
 ## 💻 Tecnologias
  - HTML
